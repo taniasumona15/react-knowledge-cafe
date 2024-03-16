@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Green",
+      "author_img": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "posted_date": "March 10, 2024",
+      "reading_time": 15,
+      "hashtags": ["gardening", "fiction", "magic"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "Beyond the Stars",
+      "author": "Alex Blue",
+      "author_img": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 20,
+      "hashtags": ["scifi", "adventure", "mystery"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "Cooking Adventures",
+      "author": "Sam Cook",
+      "author_img": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "posted_date": "March 8, 2024",
+      "reading_time": 10,
+      "hashtags": ["cooking", "recipes", "foodie"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "The Art of Mindfulness",
+      "author": "Mia Zen",
+      "author_img": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "posted_date": "March 14, 2024",
+      "reading_time": 12,
+      "hashtags": ["mindfulness", "meditation", "selfcare"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "title": "The Lost Kingdom",
+      "author": "Jack Adventure",
+      "author_img": "https://i.ibb.co/mcx4DTG/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 18,
+      "hashtags": ["fantasy", "quest", "exploration"]
+    }
+  ]
+  
